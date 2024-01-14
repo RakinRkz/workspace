@@ -1,0 +1,66 @@
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 12]
+0.9875
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 29]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 4]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 34]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 30]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 8]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 13]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 18]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 11]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 27]
+0.9874
+
+
+
+{'criterion': 'gini', 'max_depth': 4, 'max_features': 'sqrt', 'n_estimators': 200}
+Random Forest Accuracy: Using features [32, 9, 3, 0, 2]
+0.9875
+
+
+
